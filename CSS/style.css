@@ -878,7 +878,7 @@ hr {
 }
 
 .service-img {
-    height: 320px;
+    height: 270px;
     width: 300px;
     overflow: hidden;
     background-position: center;
@@ -914,10 +914,9 @@ hr {
     height: 238px;
     width: 283px;
     border-radius: 9px;
-    /* margin: 10px 15px 10px 15px; */
     position: relative;
     left: -7px;
-    top: -89px;
+    top: -100px;
     text-align: center;
     box-shadow: 2px 2px 2px 2px #a39393;
 }
@@ -938,18 +937,18 @@ hr {
 .box-head {
     position: relative;
     letter-spacing: 0.5px;
-    top: -27px;
+    top: -46px;
     font-size: 23px;
     padding: 10px;
 }
 
 .box-info {
     color: gray;
-    font-size: 16px;
+    font-size: 15px;
     padding: 15px;
     line-height: 25px;
     position: relative;
-    top: -41px;
+    top: -60px;
 }
 
 /* ========TEAM SECTION========== */
